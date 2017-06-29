@@ -1,1 +1,2 @@
-# inf552hw1
+Python 2.7
+You need to install sklearn and jupyter notebook.
